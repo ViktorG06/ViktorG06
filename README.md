@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello there, I'm Viktor! 👋
 
-<!--
-**ViktorG06/ViktorG06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ About me:
+ - Computer & Software Engineering student at Technical University of Sofia
+ - Semi-Professional Drummer, Musician, Songwriter for 3+ years
+ - Ex Freelance Video Editor with around 3-4 years experience
+ - Amateur/Hobby Photographer
 
-Here are some ideas to get you started:
+## 📚 Education:
+ - 🏫 Technical University of Sofia (2025-2029) - Bachelor of Computer and Software Engineering
+ - 🎓 Secondary School "Yordan Yovkov", Tutrakan (2013 - 2025) - intensive study of IT, Biology, Chemistry and English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Languages:
+ - Python
+ - HTML
+ - CSS
+
