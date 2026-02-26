@@ -11,6 +11,7 @@
  - 🎓 Secondary School "Yordan Yovkov", Tutrakan (2013 - 2025) - intensive study of IT, Biology, Chemistry and English
 
 ## 🖥️ Languages:
+ - C/C++
  - Python
  - HTML
  - CSS
