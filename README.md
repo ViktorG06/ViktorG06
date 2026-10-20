@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About me:
  - Computer & Software Engineering student at Technical University of Sofia
- - Semi-Professional Drummer, Musician, Songwriter for 3+ years
+ - Semi-Professional Drummer, Musician, Songwriter for 4+ years
  - Ex Freelance Video Editor with around 3-4 years experience
  - Amateur/Hobby Photographer
 
